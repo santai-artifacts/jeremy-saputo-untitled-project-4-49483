@@ -110,7 +110,7 @@ class Configuration:
 
         Actions are movement vectors.
         """
-        x, y= self.pos
+        hi
         dx, dy = vector
         direction = Actions.vectorToDirection(vector)
         if direction == Directions.STOP:
