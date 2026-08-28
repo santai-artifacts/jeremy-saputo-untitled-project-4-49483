@@ -1,4 +1,4 @@
-# Fauci: Controversies and Debates
+# Fauci: Controversies and Debatesss
 
 Dr. Anthony Fauci served as Director of the National Institute of Allergy and Infectious Diseases (NIAID) from 1984 to 2022 and became a prominent public health figure during the COVID-19 pandemic. His role and guidance have been subjects of significant controversy and debate.
 
